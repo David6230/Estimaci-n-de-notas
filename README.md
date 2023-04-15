@@ -1,2 +1,2 @@
-# Estimaci-n-de-notas
+# Estimacion-de-notas
 Modelo de estimación de notas
